@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 [![](https://github-profile-trophy.vercel.app/?username=Ab-bijoy)](https://github.com/ryo-ma/github-profile-trophy)
 
-### ✍️ Random Dev Quote
+### ✍️  Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
